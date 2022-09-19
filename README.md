@@ -21,7 +21,6 @@ Olá eu sou o GuilhermeToshio
   
 <div>
  <a href="https://www.linkedin.com/in/guilherme-iita-2b27231aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
- <a href="https://www.instagram.com/im_not_toshio/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png"></a>
 </div>
  
  
